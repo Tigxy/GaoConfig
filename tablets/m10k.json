@@ -1,0 +1,20 @@
+{
+  "device_name": "m10k",
+  "img_name": "m10k.png",
+  "buttons":[
+    {
+      "name": "Button 1",
+      "tag": "btn1",
+      "shortcut": "CTRL SHIFT R",
+      "position": "0,0",
+      "size": "50,20"
+    },
+    {
+      "name": "Button 2",
+      "tag": "btn2",
+      "shortcut": "F5",
+      "position": "0,25",
+      "size": "50,20"
+    }
+  ]
+}

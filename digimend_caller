@@ -1,0 +1,17 @@
+"""
+Handles all the configuration calls to the DIGImend driver
+"""
+
+
+def set_button(device, button, keys):
+    # determine the configuration for a key
+    shortcut_str = " ".join(keys) if isinstance(keys, list) else str(keys)
+
+
+def set_pressure_curve(device, curve):
+    pass
+
+
+def set_drawing_area(device, offset, size):
+    pass
+
